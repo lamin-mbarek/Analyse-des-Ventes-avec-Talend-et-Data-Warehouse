@@ -32,8 +32,4 @@ Le projet est divisé en plusieurs étapes :
 - **BIRT (Business Intelligence Reporting Tool)** : Tableaux de bord et reporting.
 - **SQL** : Requêtes pour transformation et chargement.
 
-## 📌 Installation et Exécution
-1. Cloner le projet :
-   ```bash
-   git clone https://github.com/votre-repo/talend-data-warehouse.git
-   cd talend-data-warehouse
+
